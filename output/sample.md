@@ -3,7 +3,7 @@
 - **file**: sample.docx
 - **type**: DOCX
 - **title**: Document Extraction Sample
-- **author**: Shekhar Kokare
+- **author**: Kajal khatke
 - **subject**: Sample document for testing document extraction
 - **revision**: 2
 - **created**: 2013-12-23 23:15:00+00:00
