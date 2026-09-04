@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "file": "sample.docx",
+    "type": "DOCX",
+    "pages": null,
+    "title": "Document Extraction Sample",
+    "author": "Shekhar Kokare",
+    "subject": "Sample document for testing document extraction",
+    "keywords": "",
+    "revision": 2,
+    "created": "2013-12-23 23:15:00+00:00",
+    "modified": "2026-09-05 01:17:38+00:00"
+  },
+  "structure": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Document Extraction Sample"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Introduction"
+    },
+    {
+      "type": "paragraph",
+      "text": "This sample document is designed to test document extraction. It contains real heading styles, body paragraphs, metadata, and a bordered table."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Purpose"
+    },
+    {
+      "type": "paragraph",
+      "text": "The purpose of this document is to provide consistent content in DOCX and PDF formats so that extracted text, headings, metadata, and table structure can be validated."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Test Data"
+    },
+    {
+      "type": "paragraph",
+      "text": "A document parser should identify the title, heading hierarchy, body text, table headers, table rows, author, subject, and other available document properties."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Expected Data"
+    },
+    {
+      "type": "paragraph",
+      "text": "A document parser should identify the title, heading hierarchy, body text, table headers, table rows, author, subject, and other available document properties."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sample Data Table"
+    },
+    {
+      "type": "table",
+      "index": 1
+    }
+  ],
+  "tables": [
+    {
+      "page": null,
+      "rows": 5,
+      "columns": 4,
+      "data": [
+        [
+          "ID",
+          "Name",
+          "Status",
+          "Description"
+        ],
+        [
+          "1",
+          "Desktop Pool",
+          "Active",
+          "Sample desktop pool for testing"
+        ],
+        [
+          "2",
+          "Recompose Job",
+          "Completed",
+          "Sample recompose operation"
+        ],
+        [
+          "3",
+          "Move to Version",
+          "Pending",
+          "Sample version movement operation"
+        ],
+        [
+          "4",
+          "Controller",
+          "Running",
+          "Sample controller component"
+        ]
+      ]
+    }
+  ],
+  "text": "Document Extraction Sample\nIntroduction\nThis sample document is designed to test document extraction. It contains real heading styles, body paragraphs, metadata, and a bordered table.\nPurpose\nThe purpose of this document is to provide consistent content in DOCX and PDF formats so that extracted text, headings, metadata, and table structure can be validated.\nTest Data\nA document parser should identify the title, heading hierarchy, body text, table headers, table rows, author, subject, and other available document properties.\nExpected Data\nA document parser should identify the title, heading hierarchy, body text, table headers, table rows, author, subject, and other available document properties.\nSample Data Table"
+}
