@@ -8,8 +8,8 @@ This is a small Python tool which reads a PDF or Word file and takes out the hea
 
 ## 1. How to Run
 
-python extract_document.py "C:\Docs\design-document.pdf"
-python extract_document.py report.docx
+python Extrct.py sample.docx
+python Extrct.py "C:\Docs\design-document.pdf"
 python extract_document.py report.pdf results
 
 
