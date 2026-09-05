@@ -16,8 +16,6 @@ python extract_document.py report.pdf results
 The third one writes the output to a folder named `results` instead of the default
 `output` folder.
 
-No sample file handy? `python make_sample_docx.py` builds one with a title, three
-heading levels, a bullet list and a table.
 
 ---
 
